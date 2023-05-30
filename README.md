@@ -9,12 +9,17 @@
     <img src="https://img.shields.io/badge/CSS-5A5A5A?logo=css3&logoColor=01A3D8" />
 </div>
 
+## Demo
+
+Proyecto disponible en: https://scirezz.github.io/EncriptadorTextoG5/
+
 ---
 
 ## Descripción
 
 Encriptador de texto desarrollado utilizando JavaScript, HTML y CSS, reto del **_Proyecto ONE_** de **Oracle Alura LATAM**.
 
+---
 
 ## Encriptación
 
@@ -26,6 +31,7 @@ Consideraciones para claves de encriptación:
 - "**a**" es convertida a "**ai**".
 - "**u**" es convertida a "**ufat**"
 
+---
 
 ### Autor:
 - Christian López
